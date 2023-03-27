@@ -16,7 +16,7 @@
 
 
 # 2. 比赛思路
-## 2.1 鱼佬在竞赛讲座中的经验分享
+## 2.1 Feature Engineering Outline
 
 ![鱼佬竞赛讲座分享笔记](img/主要模块.png)
 
