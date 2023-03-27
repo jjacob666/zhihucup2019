@@ -12,7 +12,7 @@
 
      5、最近一月的邀请数据包括<问题id、用户id、邀请时间、是否回答>。
      
-🔗比赛详情链接：[智源 - 看山杯 专家发现算法大赛 2019](https://www.biendata.com/competition/zhihu2019/)
+🔗比赛详情链接：[智源 - 看山杯 专家发现算法大赛 2019](https://www.biendata.xyz/competition/zhihu2019/)
 
 
 # 2. 比赛思路
